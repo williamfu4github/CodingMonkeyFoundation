@@ -1,25 +1,37 @@
-#### ⌘ :
-* ⌘ + ⌫ : _delete line_
-* ⌘ + D : _duplicate lines_
-* ⌘ + ` : _show error description_
-* ⌘ + ↩ : _jump to source_
-* ⌘ + E : _navigate recent files_
+Shortcut | Description
+--- | ---
+⌘ + ⌫ | delete line
+⌘ + ␣ | auto complete
+⌘ + ↩ | complete current statement
+⌘ + ↩ | jump to source
+⌘ + ⇧ + ↩ | navigate to type declaration
+⌘ + ` | show error description
+⌘ + D | duplicate lines
+⌘ + E | open recent files
+⌘ + ⇧ + E | navigate recently changed files
+⌘ + V | paste
+⌘ + ⇧ + V | paste from history
+⌘ + F | find in file
+⌘ + ⇧ + F | find in project
+⌘ + R | replace in file
+⌘ + ⇧ + R | replace in project
+⌘ + P | navigate to last edit location
+⌘ + O | jump to navigation bar
+⌘ + U | navigate to super method
+⌘ + I | navigate to implementation method
+⌘ + L | navigate to line number
+⌥ + ↑ | navigate to previous method
+⌥ + ↓ | navigate to next method
+⌥ + [ | unindent line or selection
+⌥ + ] | indent line or selection
+⌥ + U | toggle case
+⌥ + F | find usage in project
+⌥ + ⇧ + ↑ | extend selection
+⌥ + ⇧ + ↓ | shrink selection
+⇧ + ↩ | start new line
+⇧ + ␣ | caret swap selection boundary
+⌘ + ⌥ + ↑ | move line up
+⌘ + ⌥ + ↓ | move line down
 
-#### ⌘ + ⇧ :
-* ⌘ + ⇧ + ↩ : _complete current statement_
-* ⌘ + ⇧ + E : _navigate recently changed files_
-* ⌘ + ⇧ + V: _paste from history_
-
-#### ⇧ :
-* ⇧ + ↩ : _start new line_
-* ⇧ + space : _swap selection boundaries_
-
-#### ⌥ :
-* ⌥ + ↑ : _extend selection_
-* ⌥ + ↓ : _shrink selection_
-* ⌥ + [ : _unindent line or selection_
-* ⌥ + ] : _indent line or selection_
-* ⌘ + ⇧ + U: _toggle case_
-
-#### others:
-* ⌥ + ⇧ + click : _add or remove caret_
+⌥ + ⇧ + click : _add or remove caret_
+⇧ + ⌫
