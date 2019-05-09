@@ -9,6 +9,8 @@ Shortcut | Description
 ⌘ + D | duplicate lines
 ⌘ + E | open recent files
 ⌘ + ⇧ + E | navigate recently changed files
+⌘ + W | close current tab
+⌘ + ⇧ + W | close all tabs
 ⌘ + V | paste
 ⌘ + ⇧ + V | paste from history
 ⌘ + F | find in file
