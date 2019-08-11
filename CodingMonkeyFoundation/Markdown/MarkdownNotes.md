@@ -30,8 +30,8 @@ www.google.com
 
 ---
 
-* unordered
-* list
+- unordered
+- list
 
 ---
 
@@ -40,12 +40,12 @@ www.google.com
 
 ---
 
-* nested
+- nested
   1. put some space
   1. at front
-* list
+- list
   1. can nest
-     * more level
+     - more level
      
 ---
 
